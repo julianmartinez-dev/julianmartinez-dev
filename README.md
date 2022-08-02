@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/julmartinezdev" target="blank"><img src="https://img.shields.io/twitter/follow/julmartinezdev?logo=twitter&style=for-the-badge" alt="julmartinezdev" /></a> </p>
 
-- 🔭 I’m currently working on [coffeshop](https://github.com/julianmartinez-dev/coffeshop-martinez)
 
 - 🌱 I’m currently learning **ReactJs, NextJs, NodeJs and MongoDB**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript / Typescript**
 
 - 📫 How to reach me **julian.fmartinez@gmail.com**
 
-- ⚡ Fun fact **I like run half marathons**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
