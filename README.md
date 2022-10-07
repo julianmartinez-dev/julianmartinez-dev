@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Julian Martinez</h1>
-<h3 align="center">Web Developer currently working with React and Node</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianmartinez-dev&label=Profile%20views&color=0e75b6&style=flat" alt="julianmartinez-dev" /> </p>
 
