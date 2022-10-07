@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://twitter.com/julmartinezdev" target="blank"><img src="https://img.shields.io/twitter/follow/julmartinezdev?logo=twitter&style=for-the-badge" alt="julmartinezdev" /></a> </p>
 
 
-- 🌱 I’m currently learning **ReactJs, NextJs, NodeJs and MongoDB**
+- 🌱 I’m currently working with **Swift iOS** in **Telecom Argentina**
 
-- 💬 Ask me about **Javascript / Typescript**
+- 💬 Ask me about **Web/Mobile Development**
 
 - 📫 How to reach me **julian.fmartinez@gmail.com**
 
